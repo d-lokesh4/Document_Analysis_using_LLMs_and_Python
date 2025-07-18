@@ -1,0 +1,11 @@
+langchain
+langchain_community 
+pypdf
+bs4
+langchain_google_genai
+nltk
+pipeline
+transformers
+pytorch
+huggingface_hub
+google-generativeai
