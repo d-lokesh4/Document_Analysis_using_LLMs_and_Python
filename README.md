@@ -1,4 +1,4 @@
-# 🧠 Document Analysis using LLMs with Python
+# 🧠 Document Analysis using LLMs and Python
 
 This project demonstrates how to use Large Language Models (LLMs) for document analysis tasks such as text extraction and summarization from PDF documents using Python.
 
