@@ -18,7 +18,7 @@ Document analysis involves extracting and interpreting information from unstruct
 
 - Python 3.11.7
 - [ollama](https://github.com/ollama/ollama) – Open-Source platform for running and managing LLMs
-- [angchain](https://github.com/langchain-ai/langchain) – Open-Source Framework
+- [langchain](https://github.com/langchain-ai/langchain) – Open-Source Framework
 - [pypdf](https://github.com/langchain-ai/langchain/discussions/17408) – For PDF text extraction
 - [transformers](https://huggingface.co/docs/transformers/index) – Access Hugging Face LLMs
 - PyTorch or TensorFlow – As backend for transformer models
